@@ -1,0 +1,10 @@
+Case #1: 1 12 1100
+Case #2: 3 4 300
+Case #3: IMPOSSIBLE
+Case #4: 1 9 512
+Case #5: 11 12 100
+Case #6: 7 12 4452
+Case #7: 9 10 2422
+Case #8: 5 11 1510
+Case #9: 2 3 700
+Case #10: 10 11 2400
